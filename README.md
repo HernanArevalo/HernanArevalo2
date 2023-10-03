@@ -29,7 +29,7 @@
 <img align="left" width="64" height="64" src="/dev-icons/redux.png" alt="redux"/>
 <img align="left" width="64" height="64" src="/dev-icons/python.png" alt="python"/>
 <img align="left" width="64" height="64" src="/dev-icons/javascript.png" alt="javscript"/>
-<img align="left" width="64" height="64" src="/dev-icons/redux.png" alt="nodejs">
+<img align="left" width="64" height="64" src="/dev-icons/nodejs.png" alt="nodejs">
 
 
 
