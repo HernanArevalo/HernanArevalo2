@@ -24,7 +24,7 @@
 <br/>-->
 
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/react.png" alt="react"/>
-<img width="25" height="25" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo"/>
+<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo"/>
 
 
 <br/>
