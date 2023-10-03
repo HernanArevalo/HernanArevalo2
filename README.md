@@ -24,13 +24,13 @@
 <br/>-->
 
 <div style="display: inline-block">
-    <img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-duo-tal-revivo.png" alt="reactjs"/>
+    <img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-duo-tal-revivo.png" alt="reactjs"/>
 </div>
 <div style="display: inline-block">
-    <img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-duo-tal-revivo.png" alt="python"/>
+    <img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-duo-tal-revivo.png" alt="python"/>
 </div>
 <div style="display: inline-block">
-    <img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="nodejs">
+    <img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="nodejs">
 </div>
 
 <br/>
