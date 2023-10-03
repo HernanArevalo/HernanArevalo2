@@ -24,7 +24,7 @@
 <br/>-->
 
 
-<img align="left" width="64" height="64" src="/dev-icons/next.png" alt="next">
+<img align="left" width="68" height="68" src="/dev-icons/next.png" alt="next">
 <img align="left" width="64" height="64" src="/dev-icons/react.png" alt="reactjs"/>
 <img align="left" width="64" height="64" src="/dev-icons/redux.png" alt="redux"/>
 <img align="left" width="64" height="64" src="/dev-icons/python.png" alt="python"/>
