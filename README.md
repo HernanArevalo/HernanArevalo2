@@ -23,15 +23,13 @@
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ"> 
 <br/>-->
 
-<div style="display: inline-block">
-    <img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-duo-tal-revivo.png" alt="reactjs"/>
-</div>
-<div style="display: inline-block">
-    <img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-duo-tal-revivo.png" alt="python"/>
-</div>
-<div style="display: inline-block">
-    <img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="nodejs">
-</div>
+
+<img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-duo-tal-revivo.png" alt="reactjs"/>
+<img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-duo-tal-revivo.png" alt="redux"/>
+<img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-duo-tal-revivo.png" alt="python"/>
+<img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-javascript-is-a-high-level-interpreted-programming-language-logo-duo-tal-revivo.png" alt="javscript"/>
+<img align="left" width="64" height="64" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/64/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="nodejs">
+
 
 <br/>
 <br/>
