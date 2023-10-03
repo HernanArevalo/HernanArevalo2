@@ -25,7 +25,6 @@
 
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/react.png" alt="react"/>
 <img width="25" height="25" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo.png" alt="external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-duo-tal-revivo"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="node-js"/>
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/html-5.png" alt="html-5"/>
 <img align="left" width="64" height="64" src="https://img.icons8.com/dusk/64/css3.png" alt="css3"/>
