@@ -51,7 +51,7 @@
 
 ### ⭐ GitHub Stats
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HernanArevalo&show_icons=true&hide_border=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00B2FF&bg_color=0e3b61" alt="Hernán Arévalo Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HernanArevalo&show_icons=true&hide_border=true&title_color=FFF7D6&icon_color=FFF7D6&text_color=00B2FF&bg_color=0e3b61" alt="Hernán Arévalo Github Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernanArevalo&layout=compact&hide_border=true&title_color=FFF7D6&icon_color=00B2FF&text_color=FFF7D6&bg_color=0e3b61" alt="Hernán Arévalo Top Languages">
 </div>
 
