@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing with **React.js and Next.js**  <!-- ? DONE -->
 - 👯 I’m looking to be **part of a great team** <!-- ? DONE -->
-- 🤩 I’m looking to **collaborate on exciting projects** <!-- ? DONE -->
+- 🤩 Looking to **collaborate on exciting projects** <!-- ? DONE -->
 - 💬 Ask me about **Twitter and Twitch bots development** <!-- ? DONE -->
 - 😄 Pronouns: **he/him/his** <!-- ? DONE -->
 - ⚡ Fun fact: **Star Wars fan** <!-- ? DONE -->
