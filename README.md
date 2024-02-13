@@ -30,7 +30,7 @@
 <img align="left" width="64" height="64" src="/dev-icons/python.png" alt="python"/>
 <img align="left" width="64" height="64" src="/dev-icons/javascript.png" alt="javscript"/>
 <img align="left" width="64" height="64" src="/dev-icons/nodejs.png" alt="nodejs">
-
+<br/>
 
 
 <br/>
@@ -59,4 +59,4 @@
 
 ---
 
-Last edition on: 10/1/2024
+Last edition on: 13/2/2024
