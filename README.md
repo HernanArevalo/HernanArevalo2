@@ -3,7 +3,7 @@
 ### 👋 Hello there!
 ### 👋 I'm <a href="https://www.hernanarevalo.com.ar">Nan</a>
 
-- 🌱 I’m currently developing with **React.js and Next.js**  <!-- ? DONE -->
+- 🌱 I’m currently developing with **React and Next.js**  <!-- ? DONE -->
 - 👯 I want to be **part of a great work team** <!-- ? DONE -->
 - 🤩 Looking to **collaborate on exciting projects** <!-- ? DONE -->
 - 💬 Ask me about **Twitter and Twitch bots development** <!-- ? DONE -->
@@ -59,4 +59,4 @@
 
 ---
 
-13/2/2024
+16/2/2024
