@@ -1,7 +1,7 @@
 ﻿![Intro GIF](intro.gif)
 
 ### 👋 Hello there!
-### 👋 I'm <a href="https://www.hernanarevalo.com.ar">Nan</a>
+### 👋 I'm <a href="https://www.hernanarevalo.com.ar">Nan</a>!
 
 - 🌱 I’m currently developing with **React and Next.js**  <!-- ? DONE -->
 - 👯 I want to be **part of a great work team** <!-- ? DONE -->
