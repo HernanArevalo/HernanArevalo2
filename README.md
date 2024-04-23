@@ -45,7 +45,7 @@
 <li>🔥 <a href="https://github.com/HernanArevalo/movies-app">Web application about movie information.</a></li> <!-- ? DONE -->
 <li>🚀 <a href="https://github.com/HernanArevalo/twitch-bot/blob/main/src/hooks/discord/index.js">You can see this simple connection with a Discord bot too!</a></li>
 <li>💯 <a href="https://github.com/HernanArevalo/valo-app">Valorant wiki web with agents, weapons and maps information (in process)</a></li>
-<li>⚡️ <a href="https://github.com/HernanArevalo/portfolio-next-2">Currently: rebranding my personal website</a></li>
+<li>⚡️ <a href="https://github.com/HernanArevalo/teslo-shop">Currently: developing a e-commerce</a></li>
 </ul>
 <!-- BLOG_POSTS:END -->
 
